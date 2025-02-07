@@ -61,6 +61,7 @@ a{
     font-family: "Nunito", sans-serif;
     font-size: 3.5rem;
     font-weight: 700;
+    text-transform: uppercase;
     letter-spacing: 3px;
     color: #582f0e;
 }
